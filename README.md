@@ -1,6 +1,6 @@
 # Elastic Stack SIEM Management and Configuration 
 
-This project will take you on an adventurous journey of setting up a powerful Security Information and Event Management (SIEM) solution. Let's dive into the action and uncover the secrets of securing systems like a pro!
+This project will take you on an adventurous journey of setting up a powerful Security Information and Event Management (SIEM) solution. Let's dive into the action and uncover the secrets of securing systems like a pro!!
 
 ---
 
